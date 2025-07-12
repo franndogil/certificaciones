@@ -4,7 +4,7 @@ Este repositorio contiene mis certificados obtenidos en formación técnica comp
 
 ---
 
-## ✅ Listado de certificaciones
+## Listado de certificaciones
 
 - **Factores Humanos en el Mantenimiento de Aeronaves**  
   AlfaTech Training – 2020  
