@@ -1,4 +1,4 @@
-# 📜 Certificaciones – Franco Dogil
+# Certificaciones – Franco Dogil
 
 Este repositorio contiene mis certificados obtenidos en formación técnica complementaria, principalmente en el área de mantenimiento aeronáutico e idiomas.
 
@@ -24,13 +24,13 @@ Este repositorio contiene mis certificados obtenidos en formación técnica comp
 
 ---
 
-## 📎 Archivos disponibles
+## Archivos disponibles
 
 Todos los certificados están disponibles en formato PDF.
 
 ---
 
-## 🧑‍💻 Más información
+## Más información
 
 - [💼 LinkedIn](https://www.linkedin.com/in/francomatiasdogil/)
 - [📄 CV completo](https://github.com/franndogil/cv)
